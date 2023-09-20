@@ -1,0 +1,3 @@
+sourceSite,vmName,targetSite,targetCluster,targetPool,targetFolder,migrationDate,migrationTime
+mc-vcsa-v-201,TestVM01-Win,vcf-m01-vc01,vcf-m01-cl01,Migration RP_vcf-m01-cl01,Windows,21/09/2023,15:55:00
+mc-vcsa-v-201,TestVM07-Lin,vcf-m01-vc01,vcf-wld01-cl02,Migration RP_vcf-wld01-cl02,Linux,21/09/2023,16:35:00

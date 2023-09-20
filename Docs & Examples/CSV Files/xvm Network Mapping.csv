@@ -1,0 +1,7 @@
+SourcePG,TargetPG
+VLAN0001_LegacyRW,vcf-dc01-vds01-pg-vlan0001
+VLAN0001_LegacyRW,vcf-dc02-vds01-pg-vlan0001
+VLAN0002_LegacyMgmt,vcf-dc01-vds01-pg-vlan0002
+VLAN0002_LegacyMgmt,vcf-dc02-vds01-pg-vlan0002
+VLAN0101_Management,vcf-dc01-vds01-pg-mgmt
+VLAN0101_Management,vcf-dc02-vds01-pg-mgmt
